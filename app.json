@@ -25,6 +25,11 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    "splash": {
+      "image": "./assets/profile.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "blue"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
